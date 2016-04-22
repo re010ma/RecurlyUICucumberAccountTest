@@ -16,7 +16,7 @@ Recurly sandbox accounts.
 ---------------
 These tests use cucumber, capybara and rspec to do their work.
 There are a couple of unused files in the `features/support` folder.
-1. `env.rb`- By default, these tests run in Firefox. The `env.rb` file would
-be used in expanding testing to other browsers (Chrome, IE, etc.)
-2. `modules/responsive_helper.rb`- This file would be used in testing the
+- `env.rb`- By default, these tests run in Firefox. The `env.rb` file would
+be used in expanding testing to other browsers (Chrome, IE, etc.).
+- `modules/responsive_helper.rb`- This file would be used in testing the
 responsive design of the web site.
