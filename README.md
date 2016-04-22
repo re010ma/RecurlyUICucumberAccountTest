@@ -1,7 +1,7 @@
 **What do these tests do?**
 ---------------------------
-These tests validate that the correct number of accounts are shown on the
-Accounts page in specific Recurly sandbox accounts.
+These tests log into the Recurly App, navigate to the Account Summary page and
+confirm that the correct number of accounts are being displayed in specific Recurly sandbox accounts.
 
 **How do I run these tests?**
 ------------------------------
