@@ -1,4 +1,4 @@
-Feature: Accounts Page gets displays correct number of accounts
+Feature: Accounts Page displays correct number of accounts
 
   As a customer who signed up for a sandbox account, I can view all of the accounts that I have created
 
